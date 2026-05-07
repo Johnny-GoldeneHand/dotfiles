@@ -1,0 +1,20 @@
+###NAVIGATION###
+	h:	left 		j:	down 	k:up 	l:right
+	w:	next word 	b:	previous word 	e:end of word
+	o:	beginn of row 	$:	end of row
+	gg:	first row 	G:	last row
+	Ctrl+f:	page forward 	Crtl+b:	page back
+
+###INSERT-MODE AND EXIT###
+	i:	insert mode
+	:w:	save
+	:q:	quit
+	:wq:	save and quit
+	:q!:	quit without save
+
+###EDIT###
+	d:	delete	dw:	delete word	dd:delete row
+	y:	copy 	yw:	copy word
+	p:	insert
+	r:	replace R:	replace mode
+#edit over here

@@ -2,6 +2,7 @@
 # ~/.bashrc
 #
 #this is an edit
+#this is the secoung edit
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
